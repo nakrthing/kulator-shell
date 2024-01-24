@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/nakrt/Documents/c++ proj/std1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\kulator.dir\\kulator.cpp.obj -c \"C:\\Users\\nakrt\\Documents\\c++ proj\\std1\\kulator.cpp\"",
+  "file": "C:/Users/nakrt/Documents/c++ proj/std1/kulator.cpp",
+  "output": "CMakeFiles/kulator.dir/kulator.cpp.obj"
+}
+]
